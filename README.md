@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Miguel Henrique Moreira
 
-**`Desenvolvedor Fulltack`**
+**`Desenvolvedor Fullstack`**
 
 Me chamo Miguel Henrique Moreira, sou desenvolvedor Fullstack com foco especial no Frontend, onde encontrei minha paixão por criar interfaces fluidas, intuitivas e com design de impacto. Tenho como propósito transformar ideias em experiências digitais envolventes, aliando estética, performance e usabilidade.
 
